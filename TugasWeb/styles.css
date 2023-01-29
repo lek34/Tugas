@@ -1,0 +1,41 @@
+table {
+    text-align: center;
+    border-width: medium;
+    border-color: black;
+}
+
+th{
+    color: white;
+    border-width: 0;
+}
+
+td{
+    border-width: 0;
+}
+
+.lbrkiri{
+    width: 100px;
+}
+
+.lbrkanan{
+    width:300px;
+}
+
+.merah{
+    background-color: #f00;
+}
+
+.kuning{
+    background-color: #fbf6cc;
+}
+
+.biru{
+    background-color: #cce8fb;
+}
+
+.judul{
+    color: black;
+    text-align: center;
+    width: 400px;
+    font-size: 22px;
+}
